@@ -1,0 +1,2 @@
+bcryptjs -> to crypt password
+JSON web token(jwt) -> to make user signed in immedatiely after registered
